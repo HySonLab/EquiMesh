@@ -1,0 +1,1 @@
+python experiments/SHREC/eval_shrec.py --model SHREC -shrec "shrec_direct_$1" --model_path results/shrec_$1/trained_model_best.h5

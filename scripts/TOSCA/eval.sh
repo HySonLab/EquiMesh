@@ -1,0 +1,1 @@
+python experiments/TOSCA/eval_tosca.py --model TOSCA --model_path results/tosca/trained_model_best.h5

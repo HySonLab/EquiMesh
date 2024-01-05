@@ -1,0 +1,1 @@
+python experiments/HUMAN/eval_human.py --model HUMAN --model_path results/human/trained_model_best.h5

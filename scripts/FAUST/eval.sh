@@ -1,0 +1,1 @@
+python experiments/FAUST/eval_faust.py --model FAUST --model_path results/faust/trained_model_best.h5

@@ -1,0 +1,1 @@
+python experiments/FAUST/train_faust.py --model FAUST --layer $1 --epochs 200 --lr 0.00333 --exp_name 'results/faust' -save_model

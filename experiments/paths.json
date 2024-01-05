@@ -1,0 +1,7 @@
+{
+    "faust_direct": "./data/FAUST/",
+    "tosca_direct": "./data/TOSCA/",
+    "shrec_direct_16": "./data/SHREC_16/",
+    "shrec_direct_10": "./data/SHREC_10/",
+    "human_direct": "./data/HUMAN/"
+}
