@@ -1,5 +1,7 @@
 # E(3)-Equivariant Mesh Neural Networks
 
+Published at AISTATS 2024
+
 ## Running experiments
 
 Run this command
