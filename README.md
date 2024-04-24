@@ -6,6 +6,8 @@ Proceedings: https://proceedings.mlr.press/v238/anh-trang24a/anh-trang24a.pdf
 
 Preprint: https://arxiv.org/pdf/2402.04821.pdf
 
+![E3_Mesh](E3_Mesh.png)
+
 ## Running experiments
 
 Run this command
