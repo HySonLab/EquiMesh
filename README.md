@@ -1,8 +1,10 @@
 # E(3)-Equivariant Mesh Neural Networks
 
-https://arxiv.org/pdf/2402.04821.pdf
-
 Published at AISTATS 2024
+
+Proceedings: https://proceedings.mlr.press/v238/anh-trang24a/anh-trang24a.pdf
+
+Preprint: https://arxiv.org/pdf/2402.04821.pdf
 
 ## Running experiments
 
